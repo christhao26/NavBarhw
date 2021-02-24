@@ -51,8 +51,15 @@
     text-align: center;
  }
 
- P{font-family: 'Akaya Kanadaka', cursive;}
- #worth{font-family: 'DotGothic16', sans-serif;}
+ P{
+     font-family: 'Akaya Kanadaka', cursive;
+    font-size: large;
+    }
+ #worth{
+     font-family: 'DotGothic16', sans-serif;
+     font-size: large;
+    
+    }
 
  div ul li a:hover {
      background-color: red;
